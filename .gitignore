@@ -17,3 +17,5 @@ yarn-error.log
 /bootstrap/cache
 /database/.gitignore
 /storage
+/composer.lock
+/package.json
